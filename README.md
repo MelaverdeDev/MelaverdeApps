@@ -60,6 +60,5 @@ security.
 	Any other mode of distribution is not official and thus, is not maintained by the developer. This privacy policy is effective to distribution made on official channel only.
 8. ### **Changes to This Privacy Policy**
 	This policy may be updated from time to time.
-	Contact me:
-	If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me:
+	If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at 
 		melaverdeapps@gmail.com
