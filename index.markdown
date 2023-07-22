@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /index.html
+permalink: /privacy-policy/
+#permalink: /index.html
 ---
